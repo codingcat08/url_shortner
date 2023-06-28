@@ -1,0 +1,9 @@
+{// Controls the default language mode for new files
+"files.defaultLanguage": "javascript",
+
+// Enables auto-saving of files
+"files.autoSave": "off",
+
+// Configures the code formatting rules
+"editor.formatOnSave": true,
+"editor.formatOnPaste": true,
